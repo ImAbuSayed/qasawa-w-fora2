@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيونك أرى سحر الغرام
+> ونبض قلبي يذوب في الكلام
+> تعالي إلي وعانقي روحي
+> أنت دوائي وأنت جروحي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
