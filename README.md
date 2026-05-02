@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Qasawa W Fora2 |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 02, 2026 |
+| Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/qasawa-w-fora2/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
